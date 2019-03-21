@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HouseGUI
+comment0.text=\n\ This\ is\ a\ simple\ GUI\ that\ allows\ \n\ a\ User\ to\ administer\ a\ House\ and\ its\ appliances\n\n\ @author\ (last-name),\ (first-name)\ (SRN\ number)\n
+comment1.params=
+comment1.target=HouseGUI()
+comment2.params=
+comment2.target=void\ setupHouse()
+comment2.text=\n\ "This\ is\ for\ testing\ and\ assessment\ purposes.\ \ \n\ It\ is\ where\ a\ House\ is\ setup\ and\ at\ least\ \n\ eight\ electrical\ appliances\ (of\ all\ kinds)\ are\ added\ to\ the\ house.\ \ \n\ (see\ Appendix\ A\ for\ some\ of\ them,\ add\ others)"\n
+comment3.params=id
+comment3.target=void\ turnOnASingleAppliance(int)
+comment3.text=\n\ User\ supplies\ an\ appliance\ code\ and\ \n\ if\ it\ is\ in\ the\ house\ it\ is\ switched\ on.\ \ \n
+comment4.params=
+comment4.target=void\ switchOnAllLights()
+comment4.text=\n\ User\ presses\ a\ button\ (or\ selects\ menu\ item)\ \n\ which\ switches\ on\ all\ house\ lights.\n
+comment5.params=times
+comment5.target=void\ setATimeableLightWithOnOffTimes(int)
+comment5.text=\n\ User\ supplies\ on\ and\ off\ times\ (perhaps\ using\ JOptionPane)\ \n\ and\ all\ timeable\ lights\ are\ set\ with\ on\ and\ off\ times.\n
+comment6.params=
+comment6.target=void\ updateHouseAppliances()
+comment6.text=\n\ Update\ GUI\n
+numComments=7

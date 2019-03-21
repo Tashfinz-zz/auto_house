@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ApplianceTester
+comment0.text=\n\ Tests\ all\ types\ of\ Light\ objects\ \n\ \u2013\ class\ must\ have\ a\ main\ method\ (so\ it\ can\ be\ run\ outside\ BlueJ)\n\n\ @author\ (last-name),\ (first-name)\ (SRN\ number)\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\n\ "declares/creates\ the\ following\ objects\ in\ Appendix\ A\ and\ tests\ them.\n\ Tests\ should\ be\ commented\ saying\ what\ they\ are\ testing.\n\ Ensure\ tests\ cover\ the\ functionality\ available\ in\ the\ class\n\ Note\:\ it\ is\ likely\ that\ you\ will\ be\ expected\ to\ add\ further\ \n\ objects\ to\ this\ class\ during\ the\ demo"\n
+numComments=2

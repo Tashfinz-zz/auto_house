@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Timeable
+comment0.text=\n\ The\ interface\ Timeable\ specifies\ the\ minumum\ behaviour\ of\ a\ Timeable\ object.\n\ @author\ A.Marczyk\n\n
+comment1.params=startTime\ stopTime
+comment1.target=void\ setTimes(Time,\ Time)
+comment1.text=\n\ Sets\ the\ start\ and\ stop\ times.\n\ @param\ startTime\n\ @param\ stopTime\n
+comment2.params=startTime\ stopTime
+comment2.target=void\ unsetTimes(Time,\ Time)
+comment2.text=\n\ Sets\ the\ start\ and\ stop\ times\ to\ null.\n\ @param\ startTime\n\ @param\ stopTime\n
+comment3.params=
+comment3.target=Time\ getStartTime()
+comment3.text=\n\ Get\ the\ start\ time\ of\ this\ object\n\ @return\ the\ start\ time\n
+comment4.params=
+comment4.target=Time\ getStopTime()
+comment4.text=\n\n\ @return\ the\ stop\ time\n
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ElectricalAppliance
+comment0.text=\n\ Abstract\ class\ representing\ an\ electrical\ appliance\ in\ a\ house.\n\ \n\ @author\ (last-name),\ (first-name)\ (SRN\ number)\n
+comment1.params=identifier\ name\ wattage
+comment1.target=ElectricalAppliance(int,\ java.lang.String,\ int)
+comment1.text=\n\ Initialises\ fields\ from\ parameter\ values,\ or\ to\ defaults\n
+comment2.params=status
+comment2.target=void\ setStatus(boolean)
+comment3.params=
+comment3.target=int\ getIdentifier()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getWattage()
+comment6.params=
+comment6.target=boolean\ getStatus()
+comment7.params=
+comment7.target=void\ switchOn()
+comment7.text=\n\ Change\ to\ on\ status\n
+comment8.params=
+comment8.target=void\ switchOff()
+comment8.text=\n\ Change\ to\ off\ status\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\n\ Overidden\ version\ of\ toString()\n\ \u2013\ should\ return\ all\ object\ information\ and\ be\ neatly\ formatted.\n
+numComments=10

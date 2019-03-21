@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\ \n\ Simple\ Time\ class.\ \ This\ is\ a\ very\ simple\ class\ and\ could\ \ \n\ not\ in\ any\ way\ be\ used\ for\ real\ dates\ and\ times.\n\ The\ assumption\ is\ that\ times\ referred\ to\ in\ methods\ \n\ isBefore()\ and\ equals()fall\ within\ 00.00\ and\ 23.59\ and\n\ do\ not\ cross\ the\ day\ boundary\ at\ midnight\n\ \n\ @author\ A.Marczyk\n
+comment1.params=hour\ minute
+comment1.target=Time(int,\ int)
+comment1.text=\nConstruct\ new\ Time\ with\ hour\ and\ minutes\ as\ int.\ \ Note\ that\ this\ class\ is\ very\ basic\ \n\ and\ does\ not\ check\ for\ "impossible"\ times\ \n
+comment10.params=value
+comment10.target=java.lang.String\ getDisplayValue(int)
+comment2.params=
+comment2.target=int\ getHour()
+comment3.params=hour
+comment3.target=void\ setHour(int)
+comment4.params=
+comment4.target=int\ getMinute()
+comment5.params=minute
+comment5.target=void\ setMinute(int)
+comment6.params=b
+comment6.target=boolean\ isBefore(Time)
+comment7.params=b
+comment7.target=boolean\ equals(Time)
+comment8.params=
+comment8.target=java.lang.String\ getTime()
+comment8.text=\nGet\ this\ date\ as\ a\ String\ in\ the\ format\:\ d-m-y\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
